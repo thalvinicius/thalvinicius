@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working in the public sector<br>🤝 I'm looking for help and to contribute<br>🌱 I’m currently learning data science<br>💬 Ask me about<br>
 
 
